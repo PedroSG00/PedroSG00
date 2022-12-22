@@ -6,7 +6,7 @@ Web Developer. <br>
 I have finished a Web Developement Bootcamp in IronHack Madrid and i want to increase my skills and learn new ones. <br>
 I am a perseverant person with a lot of motivation to build projects and become the best developer posible. <br>
 
-<h2>LET'S CONNECT!</h2>
+<h3>Let's connect!</h3>
 
 [LinkedIn](https://www.linkedin.com/in/pedro-su%C3%A1rez/) <br>
 suarezgallardopedro@gmail.com
