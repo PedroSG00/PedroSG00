@@ -8,9 +8,9 @@ I am a perseverant person with a lot of motivation to build projects and become 
 
 <h2>PROJECTS:</h2>
 
-[<h3>Rambler</h3>](https://ramblerproject.netlify.app/)
-[<h3>Crimimatch</h3>](https://crimimatch.fly.dev/)
-<h3>Little Red Flying Hood</h3>
+[Rambler](https://ramblerproject.netlify.app/)
+[Crimimatch](https://crimimatch.fly.dev/)
+[Little Red Flying Hood]
 
 <h2>SKILLS:</h2>
 
